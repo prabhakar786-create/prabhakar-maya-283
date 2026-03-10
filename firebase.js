@@ -1,0 +1,16 @@
+
+var firebaseConfig={
+
+apiKey:"YOUR_API_KEY",
+authDomain:"YOUR_PROJECT.firebaseapp.com",
+databaseURL:"YOUR_DATABASE_URL",
+projectId:"YOUR_PROJECT",
+storageBucket:"YOUR_PROJECT.appspot.com",
+messagingSenderId:"XXXX",
+appId:"XXXX"
+
+};
+
+firebase.initializeApp(firebaseConfig);
+
+var database=firebase.database();
