@@ -1,2 +1,16 @@
-# prabhakar-maya-283
-Political campaignwebsite for Er Prabhakar Maya- Nanpara-283
+
+GAUN SARTHI 
+===========================================
+
+FEATURES
+- Ride Booking
+- Delivery Booking
+- Driver Panel
+- Admin Dashboard
+- Fare Calculator
+- Map Pickup & Drop Pins
+- Firebase Realtime Database
+
+
+- Live Driver GPS
+- Push Notifications
